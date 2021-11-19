@@ -1,10 +1,3 @@
-//
-//  WeatherForecastApp.swift
-//  WeatherForecast
-//
-//  Created by Oybek To’laboyev on 10/11/21.
-//
-
 import SwiftUI
 
 @main
